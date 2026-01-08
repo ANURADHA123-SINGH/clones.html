@@ -1,2 +1,2 @@
-# clones.html
- make a website clone 
+# Amazon Clone
+ Create amazon website clone using HTML and CSS 
